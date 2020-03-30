@@ -13,3 +13,14 @@ the education and interation that students around the world could gain from
 their classrooms. Our goal with this project was to create an interactive
 application for students to continue their learning outside of the reality of
 their own home, and into the world of augmented reality.
+
+Requirements:
+- Unity 2.6 (or above)
+
+Instructions to run:
+
+1. Open "Unity Files" folder >> Open "interAct" >> Open "Assets" >> Open "Scenes"
+2. Run "SampleScene" unity file.
+3. After loading, go back to "Unity Files" folder and run the "Demo" unity file.
+4. Press import on the pop-up menu.
+5. Run the unity scene.
